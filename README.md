@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xIbrahim-t
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning and working as a developer (Bytechain)
+- 👀 interested in coding
+- 🌱 I’m currently learning system administration and was working as a blockchain developer
 - 📫 Reach me on telegram t_ibrahim_t
 
 <!---
